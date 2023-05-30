@@ -7,13 +7,13 @@ geometry = "350x6+24+60"
 indicate_hidden = yes
 shrink = yes
 
-transparency = 0
+transparency = 10
 separator_height = 2
 padding = 8
 horizontal_padding = 13
 frame_width = 8
-frame_color = "#1E1E2E"
-separator_color = "#302D41"
+frame_color = "#2E1E2E"
+separator_color = "#412D3F"
 
 font = "JetBrainsMono Nerd Font 10"
 
@@ -22,7 +22,7 @@ markup = full
 format = "<span size='x-large' font_desc='' weight='Bold' foreground='#D9E0EE'>%s</span>\n\n%b"
 alignment = center
 
-idle_threshold = 120
+idle_threshold = 10
 show_age_threshold = 60
 sort = no
 word_wrap = yes
@@ -54,20 +54,20 @@ context = ctrl+shift+period
 [urgency_low]
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
-    background = "#1E1E2E"
+    background = "#2E1E2E"
     foreground = "#D9E0EE"
     timeout = 5
     # Icon for notifications with low urgency, uncomment to enable
     #icon = /path/to/icon
 
 [urgency_normal]
-    background = "#1E1E2E"
+    background = "#2E1E2E"
     foreground = "#D9E0EE"
     timeout = 10
     # Icon for notifications with normal urgency, uncomment to enable
     #icon = /path/to/icon
 
 [urgency_critical]
-    background = "#1E1E2E"
+    background = "#2E1E2E"
     foreground = "#D9E0EE"
     timeout = 120

@@ -1,0 +1,5 @@
+[Default Applications]
+application/x-perl=nvim.desktop
+
+[Added Associations]
+application/x-perl=nvim.desktop;

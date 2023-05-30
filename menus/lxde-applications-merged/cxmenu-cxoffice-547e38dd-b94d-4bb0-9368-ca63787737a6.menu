@@ -1,0 +1,18 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN" "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>Windows Applications</Name>
+    <Directory>cxmenu-cxoffice-547e38dd-b94d-4bb0-9368-ca63787737a6-3ii0rqp.directory</Directory>
+    <Include>
+      <Category>X-cxmenu-cxoffice-547e38dd-b94d-4bb0-9368-ca63787737a6-3ii0rqp</Category>
+    </Include>
+    <Menu>
+      <Name>Microsoft Office Tools</Name>
+      <Directory>cxmenu-cxoffice-547e38dd-b94d-4bb0-9368-ca63787737a6-0nlqhb8.directory</Directory>
+      <Include>
+        <Category>X-cxmenu-cxoffice-547e38dd-b94d-4bb0-9368-ca63787737a6-0nlqhb8</Category>
+      </Include>
+    </Menu>
+  </Menu>
+</Menu>
