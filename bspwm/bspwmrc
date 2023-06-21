@@ -42,6 +42,10 @@ picom &
 udiskie &
 flameshot &
 xidlehook --not-when-fullscreen --not-when-audio --timer normal 300 slock &
-~/.config/polybar/launch.sh
+~/.config/polybar/launch.sh &
+xrdb -merge ~/.Xresources &
+export MOZ_USE_XINPUT2=1 &
+export QT_STYLE_OVERRIDE=adwaita-dark &
+xscreensaver
 #### END BSPWM AUTOSTART #####
 

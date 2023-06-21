@@ -1,5 +1,11 @@
 [Default Applications]
 application/x-perl=nvim.desktop
+application/vnd.openxmlformats-officedocument.presentationml.presentation=cxmenu-cxoffice-547e38dd-b94d-4bb0-9368-ca63787737a6-3ii0rqp-PowerPoint.desktop
+x-scheme-handler/wootwoot=wootility-lekker.desktop
+x-scheme-handler/web+wootwoot=wootility-lekker.desktop
+x-scheme-handler/discord-725763266110029964=discord-725763266110029964.desktop
 
 [Added Associations]
 application/x-perl=nvim.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=cxmenu-cxoffice-547e38dd-b94d-4bb0-9368-ca63787737a6-3ii0rqp-PowerPoint.desktop;
+application/vnd.ms-excel.sheet.macroEnabled.12=cxmenu-cxoffice-547e38dd-b94d-4bb0-9368-ca63787737a6-3ii0rqp-Excel.desktop;

@@ -163,3 +163,9 @@ XF86MonBrightnessDown
 # take a screenshot
 Print
 	flameshot gui
+
+# My custom keybinds
+#
+# Lock screen with xscreensaver
+super + l
+	xscreensaver-command -lock
